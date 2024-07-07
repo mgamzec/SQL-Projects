@@ -1,4 +1,4 @@
-# **Udemy - Advanced SQL : MySQL Data Analysis and Business Intelligence**
+# **Advanced SQL : MySQL Data Analysis and Business Intelligence**
 
 ## 📂 **Introduction**
 ### **The Situation**
